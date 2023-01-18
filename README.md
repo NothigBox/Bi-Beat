@@ -1,6 +1,6 @@
 # Bi-Beat
 
-A relaxing musical game that you can see at my Game Designers protfolio: https://josemanuelagudeloc.wixsite.com/gamedesign
+A relaxing musical game that you can see at my Game Designer protfolio: https://josemanuelagudeloc.wixsite.com/gamedesign
 
 
 BI-BEAT CREDITS
