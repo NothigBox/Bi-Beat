@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gong Wave Animator Override
+  m_Controller: {fileID: 9100000, guid: 029d3e59ed227df40a34f01e54a07d94, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ff6f1f23a11fe0a4bb24b2d49e8203dd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7628edfe3543b9c4e8374d89f43407eb, type: 2}

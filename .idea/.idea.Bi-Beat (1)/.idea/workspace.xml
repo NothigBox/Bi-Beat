@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fc13c3c-1757-4ada-9686-81a653500e52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils (scripts)/AnimateTransformPosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils (scripts)/AnimateTransformScale.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Texts/Peace Night.txt" />
+      <option value="$PROJECT_DIR$/Assets/Texts/Chiken say.txt" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI (scripts)/TutorialController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI (scripts)/UIManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Texts/Naruto sad.txt" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Music (scripts)/MusicManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Texts/Little star.txt" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI (scripts)/ControllerButtons.cs" />
+      <option value="$PROJECT_DIR$/Assets/Texts/Sad ninja.txt" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Disc (scripts)/DiscManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Texts/Chicks say.txt" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Utils (scripts)/AnimateTransform.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/World (scripts)/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Utils (scripts)/AnimateTransformPosition.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Utils (scripts)/AnimateTransformScale.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Music (scripts)/MusicScoreReader.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/World (scripts)/LevelManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Disc (scripts)/InvertRotation.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="25PAM0Dp4vF6woQS6EPGRg4BpQu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
